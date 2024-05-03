@@ -14,3 +14,5 @@ const CriticScore = ({ score }: Props) => {
 };
 
 export default CriticScore;
+
+
